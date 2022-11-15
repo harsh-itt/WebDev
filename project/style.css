@@ -1,0 +1,59 @@
+header{
+    display:flex;
+    justify-content:space-between;
+    margin-left:50px; 
+}
+ul{
+    display:flex;
+    justify-content:space-evenly;
+    list-style-type: none;
+    font-size: x-large;
+    margin-top:33px;
+}
+li:hover{
+    cursor:pointer;
+    color:red;
+}
+nav{
+    width: 40vw;
+}
+h1{
+    font-weight:normal;
+}
+.BigImage{
+    width:95vw;
+    margin:1rem;
+    margin-bottom: 100px;
+}
+.Father{
+    display:flex;
+    margin-left:50px;
+    margin-bottom:45px;
+}
+.Father>div{
+    text-align: center;
+    margin-right:2rem;
+}
+p{
+    font-size: x-large;
+    font-weight:500;
+    line-height: 1.5rem;
+}
+div>h2{
+    font-weight:normal;
+}
+body{
+    overflow-x: hidden;
+}
+footer{
+    text-align:center;
+    background-color:black;
+    color:white;
+    font-size:medium;
+    height: 60px;
+    line-height:50px;
+}
+
+
+
+
