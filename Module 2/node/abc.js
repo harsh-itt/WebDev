@@ -1,0 +1,1 @@
+console.log("This file is executed with another file using child process");
